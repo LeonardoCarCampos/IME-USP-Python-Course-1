@@ -1,0 +1,1 @@
+This script provides functions to analyze texts for linguistic features and identify the likelihood of a text being infected with COH-PIAH (a fictional disease). It includes functions to calculate linguistic signatures, compare signatures between texts, and determine the text most likely to be infected based on the calculated signatures.
